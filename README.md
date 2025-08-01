@@ -1,4 +1,5 @@
-# Zero Birefringence Rib Waveguide
+# Zero Birefringence Rib Waveguide<img width="538" height="137" alt="Screenshot 2025-08-01 161045" src="https://github.com/user-attachments/assets/17968fb3-21db-4473-bab0-4ae3823762b8" />
+
 
 This repository contains a detailed numerical study and simulation of a single-mode silicon-on-insulator (SOI) rib waveguide designed to achieve **zero birefringence**.
 
