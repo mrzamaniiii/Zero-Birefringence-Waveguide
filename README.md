@@ -7,14 +7,14 @@ This repository contains a detailed numerical study and simulation of a single-m
 ## 📌 Objective
 
 To design a polarization-independent SOI rib waveguide that:
-- Supports **single-mode operation** for both TE and TM modes.
-- Has **minimal birefringence**, i.e., Δn_eff ≈ 0.
+- Supports single-mode operation for both TE and TM modes.
+- Has minimal birefringence, i.e., Δn_eff ≈ 0.
 
 ---
 
 ## 📐 Design Parameters
 
-- Wavelength: **1550–1600 nm**
+- Wavelength: 1550–1600 nm
 - Core (Si) index: ~3.45
 - Cladding (SiO₂) index: ~1.45
 - Total height (H): 260–420 nm
@@ -42,9 +42,3 @@ Simulations were conducted using the [EIMS Mode Solver](https://www.computationa
 - `Report.pdf`: Full technical report with simulation results, figures, and analysis
 - `figures/`: Cross-section, mode profiles, and Δn_eff vs. W plots (optional if images added)
 - `README.md`: Project summary and usage
-
----
-
-## 🧠 Conclusion
-
-By optimizing rib geometry (mainly the width and height ratio), we demonstrated that it's possible to design an SOI waveguide that supports single-mode propagation and is nearly polarization-independent — critical for robust photonic integrated circuits.
