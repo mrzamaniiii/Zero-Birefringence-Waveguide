@@ -10,8 +10,6 @@ To design a polarization-independent SOI rib waveguide that:
 - Supports single-mode operation for both TE and TM modes.
 - Has minimal birefringence, i.e., Δn_eff ≈ 0.
 
----
-
 ## Design Parameters
 
 - Wavelength: 1550–1600 nm
@@ -23,8 +21,6 @@ To design a polarization-independent SOI rib waveguide that:
 
 Simulations were conducted using the [EIMS Mode Solver](https://www.computational-photonics.eu/eims.html).
 
----
-
 ## Key Results
 
 | λ (nm) | Width (nm) | H (nm) | h (nm) | Δn_eff | Single Mode |
@@ -33,9 +29,7 @@ Simulations were conducted using the [EIMS Mode Solver](https://www.computationa
 | 1600   | 210         | 420    | 170    | 0.0016  | ✅ |
 | 1550   | 300         | 370    | 170    | 0.1758  | ✅ |
 
-> ✅ **Minimum birefringence** of ~0.0009 achieved at λ = 1590 nm with W = 220 nm
-
----
+> **Minimum birefringence** of ~0.0009 achieved at λ = 1590 nm with W = 220 nm
 
 ## File Structure
 
