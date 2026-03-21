@@ -1,8 +1,8 @@
-<img width="538" height="137" alt="Screenshot 2025-08-01 161045" src="https://github.com/user-attachments/assets/f3a667c9-07a4-4cc0-b75f-44b1c574a6f3" />
+<img width="500" height="100" alt="Screenshot 2025-08-01 161045" src="https://github.com/user-attachments/assets/f3a667c9-07a4-4cc0-b75f-44b1c574a6f3" />
 
 # Zero Birefringence Rib Waveguide
 
-This repository contains a detailed numerical study and simulation of a single-mode silicon-on-insulator (SOI) rib waveguide designed to achieve **zero birefringence**.
+This repository contains a detailed numerical study and simulation of a single-mode silicon-on-insulator rib waveguide designed to achieve zero birefringence.
 
 ## Objective
 
@@ -30,9 +30,3 @@ Simulations were conducted using the [EIMS Mode Solver](https://www.computationa
 | 1550   | 300         | 370    | 170    | 0.1758  | ✅ |
 
 > **Minimum birefringence** of ~0.0009 achieved at λ = 1590 nm with W = 220 nm
-
-## File Structure
-
-- `Report.pdf`: Full technical report with simulation results, figures, and analysis
-- `figures/`: Cross-section, mode profiles, and Δn_eff vs. W plots (optional if images added)
-- `README.md`: Project summary and usage
